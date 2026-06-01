@@ -8,6 +8,7 @@
 #     *********#
 #     i don't know what to type
 #     ```
+
 print("    *")
 print("   **")
 print("  ***")
