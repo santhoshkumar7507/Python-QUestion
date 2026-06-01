@@ -1,1 +1,0 @@
-# take a number as input and find the sum of numbers from 1 to that number

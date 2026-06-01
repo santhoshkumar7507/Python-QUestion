@@ -1,8 +1,0 @@
-#  Hollow triangle star Pattern
-
-# *
-# **
-# * *
-# *  *
-# *   *
-# ******

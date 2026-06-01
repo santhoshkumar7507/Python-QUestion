@@ -1,1 +1,0 @@
-# find the factorial of a number using while loop, take number n as input
