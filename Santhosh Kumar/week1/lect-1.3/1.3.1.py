@@ -3,3 +3,6 @@
 # ```
 print("hello","world")
 # ```
+
+# Answer:
+# hello world
