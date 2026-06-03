@@ -1,7 +1,7 @@
 # 1) generate the following pattern using print statements
 #     ```
-#         *
-#        **
+#       *
+#      **
 #     ***
 #     ****
 #     *******
@@ -15,4 +15,3 @@ print("  ***")
 print(" ****")
 print("*******")
 print("*********")
-print("      *")
