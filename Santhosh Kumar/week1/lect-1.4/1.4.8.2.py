@@ -4,3 +4,5 @@ n=int(input())
 print(n)
 # ```
 
+# output: 
+#    5
