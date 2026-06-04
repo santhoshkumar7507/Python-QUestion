@@ -3,6 +3,6 @@
 # len(x) + len(y) == len(x+y)
 
 x = "santhosh"
-y = "gokul"
+y = "Vicky"
 print(len(x) + len(y) == len(x+y))
 

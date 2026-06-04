@@ -3,10 +3,9 @@
 # both endpoints included, and False otherwise. You can assume 
 # that the score is an integer.
 
-sutudent=85
-if sutudent >=90 and sutudent <=100:
-    print(True)
-else:
-    print(False)
+student = 95
 
-    
+if student >=90 and student <=100:
+    print("True")
+else:
+    print("False")

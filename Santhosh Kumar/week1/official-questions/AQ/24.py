@@ -2,16 +2,19 @@
 # What about a three digit number?
 
 # input = 256
-# ouput = 265
+# ouput = 2 5 6
 
 n = int(input())
 fir = n // 100
 print(fir)
-thir = n % 10
-print(thir)
+
 sec = (n // 10)%10
 print(sec)
-print(fir,thir,sec)
+
+thir = n % 10
+print(thir)
+print(fir,sec,thir)
+
 # print(fir+sec+thir)
 
 
